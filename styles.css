@@ -1,0 +1,17 @@
+*{
+    margin: 0 auto;
+}
+.para-three{
+    background-color: antiquewhite;
+}
+
+body{
+    border: 2px solid rgb(55, 52, 52);
+    width: 50%;
+}
+
+#list-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
